@@ -1,5 +1,19 @@
 # Playlist
 
-👩‍💻 Code HTML et CSS qui permet de lancer une playlist.
+Une playlist simple en HTML, CSS permettant de lancer et écouter une musique.
 
-🕰️ Fait en 1 jour, pour tester la mise en place de média.
+![Aperçu du player](screenshot.png)
+
+## Fonctionnalités
+
+- **Bouton play (▶)**
+
+## Technologies utilisées
+
+- **HTML** : Structure de la page
+- **CSS** : Design et mise en forme
+
+## Utilisation
+
+1. Cliquez sur le bouton play "▶" pour lancer la musique
+2. Vous pouvez recliquer dessus pour l'arrêter
